@@ -1,53 +1,68 @@
-# About Me
+# Hi, I'm Steve 👋
 
-🎓 I'm a software developer focused on backend development and currently building full-stack applications using Java and Spring Boot.
-
-💻 Passionate about improving problem-solving skills, I’ve been developing applications that help structure coding practice and task management, while strengthening my understanding of APIs, databases, and system design.
-
-🌟 Through my learning journey, I’ve built multiple personal projects, including a full-stack LeetCode tracker and a task management app, expanding my skills in backend and frontend development.
-
-🚀 I'm continuously working on improving my backend engineering skills and building real-world applications.
+Backend-focused developer building full-stack applications with Java and Spring Boot.
 
 ---
 
-# Skills
+## About Me
 
-**Languages:** Java, JavaScript, SQL  
-**Frameworks & Libraries:** Spring Boot, React  
-**Databases:** PostgreSQL  
-**Tools & Platforms:** Git, Docker  
-**Additional:** REST APIs, Full-stack development  
+🎓 I’m a software developer focused on backend engineering, currently building full-stack applications using Java, Spring Boot, and React.
 
----
+💻 I enjoy designing APIs, working with databases, and creating systems that solve real problems. My recent work includes building a LeetCode tracking system that applies spaced repetition concepts to improve coding practice.
 
-# Projects
+🌟 Through hands-on projects, I’ve developed experience in backend development, database design, and integrating frontend applications with REST APIs.
 
-**LeetCode Tracker:**  
-Full-stack application built with React and Spring Boot to track coding practice using a spaced repetition system. Features include problem scheduling (today, overdue, upcoming), review tracking, and completion logic.
-
-**Task Manager App:**  
-Simple application that allows users to create and manage tasks, displaying them in a structured table with a clean interface.
+🚀 I’m continuously improving my skills in backend development, system design, and deployment.
 
 ---
 
-# Experience Highlights
+## 🛠 Skills
 
-- Built and deployed a full-stack application using React, Spring Boot, and PostgreSQL  
-- Designed REST APIs for tracking and managing data efficiently  
+- **Languages:** Java, JavaScript, SQL  
+- **Backend:** Spring Boot, REST APIs  
+- **Frontend:** React  
+- **Database:** PostgreSQL  
+- **Tools & Platforms:** Git, Docker  
+- **Concepts:** Full-stack development, API design  
+
+---
+
+## 🚀 Projects
+
+### LeetCode Tracker
+Full-stack application built with React and Spring Boot to help users track coding practice using a spaced repetition approach.  
+Features include:
+- Problem categorization (Today, Overdue, Upcoming)  
+- Review history and scheduling logic  
+- Progress tracking and completion system  
+
+---
+
+### Task Manager App
+A simple task management application that allows users to create and organize tasks in a structured table format.
+
+---
+
+## 📈 Experience Highlights
+
+- Designed and built RESTful APIs using Spring Boot  
+- Integrated React frontend with backend services  
+- Worked with PostgreSQL for data persistence  
 - Containerized applications using Docker  
-- Worked with database integration and scheduling logic for review systems  
+- Implemented scheduling logic for tracking and reviewing problems  
 
 ---
 
-# Achievements
+## 🏆 Achievements
 
-- Successfully built and deployed a full-stack project  
-- Gained hands-on experience with backend development and API design  
-- Implemented structured problem tracking using spaced repetition concepts  
+- Built and deployed a full-stack application from scratch  
+- Strengthened backend development and API design skills through real projects  
+- Gained hands-on experience with Docker and application deployment  
 
 ---
 
-# Connect with Me
+## 📫 Connect with Me
 
 - Email: stevewankou@email.com  
 - GitHub: https://github.com/wankoutecto 
+ 
