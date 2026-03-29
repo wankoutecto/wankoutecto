@@ -1,38 +1,53 @@
-# Hi, I'm Steve 👋
+# About Me
 
-Backend-focused developer building full-stack applications with Java and Spring Boot.
+🎓 I'm a software developer focused on backend development and currently building full-stack applications using Java and Spring Boot.
 
----
+💻 Passionate about improving problem-solving skills, I’ve been developing applications that help structure coding practice and task management, while strengthening my understanding of APIs, databases, and system design.
 
-## 🚀 Projects
+🌟 Through my learning journey, I’ve built multiple personal projects, including a full-stack LeetCode tracker and a task management app, expanding my skills in backend and frontend development.
 
-- **LeetCode Tracker**  
-  Full-stack app with React + Spring Boot to track coding practice using spaced repetition.
-
-- **Task Manager App**  
-  Simple app for creating and managing tasks with a clean UI.
+🚀 I'm continuously working on improving my backend engineering skills and building real-world applications.
 
 ---
 
-## 🛠 Tech Stack
+# Skills
 
-- Java, Spring Boot  
-- React  
-- PostgreSQL  
-- Docker  
-- AWS (learning)
-
----
-
-## 📈 Currently Learning
-
-- Backend system design  
-- API design (REST)  
-- Deployment (Render, Docker)
+**Languages:** Java, JavaScript, SQL  
+**Frameworks & Libraries:** Spring Boot, React  
+**Databases:** PostgreSQL  
+**Tools & Platforms:** Git, Docker  
+**Additional:** REST APIs, Full-stack development  
 
 ---
 
-## 📫 Contact
+# Projects
 
-- Email: stevewankou@gmail.com  
-- LinkedIn: (add later)
+**LeetCode Tracker:**  
+Full-stack application built with React and Spring Boot to track coding practice using a spaced repetition system. Features include problem scheduling (today, overdue, upcoming), review tracking, and completion logic.
+
+**Task Manager App:**  
+Simple application that allows users to create and manage tasks, displaying them in a structured table with a clean interface.
+
+---
+
+# Experience Highlights
+
+- Built and deployed a full-stack application using React, Spring Boot, and PostgreSQL  
+- Designed REST APIs for tracking and managing data efficiently  
+- Containerized applications using Docker  
+- Worked with database integration and scheduling logic for review systems  
+
+---
+
+# Achievements
+
+- Successfully built and deployed a full-stack project  
+- Gained hands-on experience with backend development and API design  
+- Implemented structured problem tracking using spaced repetition concepts  
+
+---
+
+# Connect with Me
+
+- Email: stevewankou@email.com  
+- GitHub: https://github.com/wankoutecto 
