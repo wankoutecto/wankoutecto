@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Steve 👋
 
-<!--
-**wankoutecto/wankoutecto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused developer building full-stack applications with Java and Spring Boot.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+- **LeetCode Tracker**  
+  Full-stack app with React + Spring Boot to track coding practice using spaced repetition.
+
+- **Task Manager App**  
+  Simple app for creating and managing tasks with a clean UI.
+
+---
+
+## 🛠 Tech Stack
+
+- Java, Spring Boot  
+- React  
+- PostgreSQL  
+- Docker  
+- AWS (learning)
+
+---
+
+## 📈 Currently Learning
+
+- Backend system design  
+- API design (REST)  
+- Deployment (Render, Docker)
+
+---
+
+## 📫 Contact
+
+- Email: stevewankou@gmail.com  
+- LinkedIn: (add later)
